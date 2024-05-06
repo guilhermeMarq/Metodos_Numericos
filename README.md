@@ -22,7 +22,7 @@ Este é um programa Python desenvolvido para resolver sistemas lineares e não l
 
 ## Resolução de Sistemas Não Lineares
 
-1. Método de Newton
+1. Método de Newton-Raphson
 
 
 
