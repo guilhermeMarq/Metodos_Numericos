@@ -49,7 +49,7 @@ Clone ou faça o download deste repositório.
 Todas as contribuições, reporte de bugs, correções, melhorias na documentação, aprimoramentos e ideias são bem-vindos.
 
 "*Os erros são os portais da descoberta.*" 
-                                             **James Joyce**
+                                             -**James Joyce**
 
 ## Licença
 
