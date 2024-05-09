@@ -2,7 +2,6 @@
 import numpy as np
 
 # Biblioteca para manipulação e resoluçao de expressões matemáticas
-import sympy as sp
 import math
 
 def derivada_aproximacao(pontos: list[float], valor_ponto: float, ordem_derivada: int) -> float:
