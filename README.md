@@ -3,11 +3,6 @@
 Este é um conjunto abrangente de métodos numéricos implementados em Python, oferecendo uma ampla gama de funcionalidades para análise computacional de sistemas lineares e não lineares, cálculo de autovalores e autovetores, mínimos quadrados, interpolação polinomial, cálculo de derivadas e integrais a partir de dados discretos.
 
 
-## Aplicações em Modelagem Computacional
-
-Este programa foi aplicado em dois trabalhos de mestrado na Universidade Federal Fluminense (UFF) na área de modelagem computacional. As aplicações desses métodos foram testadas e validadas em diferentes contextos, fornecendo resultados confiáveis para uma variedade de problemas computacionais.
-
-
 
 ## Resolução de Sistemas Lineares
 
@@ -41,6 +36,12 @@ Realiza interpolação polinomial para estimar valores entre pontos discretos. A
 ## Determinação de Autovalores e Autovetores:
 
 O programa também é capaz de determina os autovalores e autovetores de uma matriz sem expandir o seu determinante.
+
+
+
+## Aplicações em Modelagem Computacional
+
+Este programa foi aplicado em dois trabalhos de mestrado na Universidade Federal Fluminense (UFF) na área de modelagem computacional. As aplicações desses métodos foram testadas e validadas em diferentes contextos, fornecendo resultados confiáveis para uma variedade de problemas computacionais.
 
 
 
