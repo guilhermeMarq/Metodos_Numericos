@@ -1,5 +1,4 @@
-<img src="C:\Users\Guilherme\Pictures\logo 2.png" alt="logo 2" style="zoom:40%;" />
-
+![Logo](https://github.com/guilhermeMarq/Metodos_Numericos/assets/72332375/5336cf68-4f4b-4983-91fe-d6bf65905408)
 
 
 # Métodos numéricos para a resolução de problemas computacionais.
