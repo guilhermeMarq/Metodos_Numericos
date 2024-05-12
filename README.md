@@ -5,11 +5,13 @@ Este é um conjunto abrangente de métodos numéricos implementados em Python, o
 
 ## Aplicações em Modelagem Computacional
 
-Este conjunto de métodos numéricos foi desenvolvido e aprimorado como parte de projetos de pesquisa no âmbito do mestrado em modelagem computacional na Universidade Federal Fluminense (UFF). As aplicações desses métodos foram testadas e validadas em diferentes contextos, fornecendo resultados confiáveis para uma variedade de problemas computacionais.
+Este programa foi aplicado em dois trabalhos de mestrado na Universidade Federal Fluminense (UFF) na área de modelagem computacional. As aplicações desses métodos foram testadas e validadas em diferentes contextos, fornecendo resultados confiáveis para uma variedade de problemas computacionais.
 
 
 
 ## Resolução de Sistemas Lineares
+
+O programa permite resolver sistemas de equações lineares usando métodos iterativos ou diretos, a partir dos seguintes métodos:
 
 1. Eliminação de Gauss
 
@@ -28,6 +30,11 @@ Este conjunto de métodos numéricos foi desenvolvido e aprimorado como parte de
 ## Resolução de Sistemas Não Lineares
 
 1. Método de Newton-Raphson
+
+
+## Ajuste de curvas:
+
+Realiza interpolação polinomial para estimar valores entre pontos discretos. Além disso, há a implementaçao de ajuste de curvas por mínimos quadrados, no qual é possivel ajustar polinomios, exponenciais ou outras funçoes a partir de pontos ou simplificar uma funcao continua.
 
 
 
