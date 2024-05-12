@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="40%" src="https://github.com/guilhermeMarq/Metodos_Numericos/assets/72332375/f66138d1-befd-4cdf-9842-4a52d5fcf290" alt="Logo 2">
+  <img width="30%" src="https://github.com/guilhermeMarq/Metodos_Numericos/assets/72332375/f66138d1-befd-4cdf-9842-4a52d5fcf290" alt="Logo 2">
 </p>
 
 
