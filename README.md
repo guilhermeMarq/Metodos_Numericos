@@ -1,4 +1,5 @@
-![Logo](https://github.com/guilhermeMarq/Metodos_Numericos/assets/72332375/5336cf68-4f4b-4983-91fe-d6bf65905408)
+
+![logo 2](https://github.com/guilhermeMarq/Metodos_Numericos/assets/72332375/f66138d1-befd-4cdf-9842-4a52d5fcf290)
 
 
 # Métodos numéricos para a resolução de problemas computacionais.
