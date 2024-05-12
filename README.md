@@ -29,7 +29,7 @@ O programa permite resolver sistemas de equações lineares usando métodos iter
 
 ## Ajuste de curvas:
 
-Realiza interpolação polinomial para estimar valores entre pontos discretos. Além disso, há a implementaçao de ajuste de curvas por mínimos quadrados, no qual é possivel ajustar polinomios, exponenciais ou por uma função de sua escolha a partir de pontos. Por fim, é possivel simplificar uma função em uma forma mais simples dentro de um intervalo continuo.
+Realiza interpolação polinomial para estimar valores entre pontos discretos. Além disso, há a implementaçao de ajuste de curvas por mínimos quadrados, no qual é possivel ajustar polinomios, exponenciais ou por uma função qualquer de sua escolha a partir de pontos. Por fim, é possivel simplificar uma função em uma forma mais simples dentro de um intervalo continuo.
 
 
 
