@@ -1,6 +1,11 @@
 # Métodos numéricos para a resolução de problemas de sistemas lineares, não lineares e autovalores/autovetores.
 
-Este é um programa Python desenvolvido para resolver sistemas lineares e não lineares utilizando diversos métodos numéricos. Ele oferece suporte aos seguintes métodos:
+Este é um conjunto abrangente de métodos numéricos implementados em Python, oferecendo uma ampla gama de funcionalidades para análise computacional de sistemas lineares e não lineares, cálculo de autovalores e autovetores, mínimos quadrados, interpolação polinomial, cálculo de derivadas e integrais a partir de dados discretos.
+
+
+## Aplicações em Modelagem Computacional
+
+Este conjunto de métodos numéricos foi desenvolvido e aprimorado como parte de projetos de pesquisa no âmbito do mestrado em modelagem computacional na Universidade Federal Fluminense (UFF). As aplicações desses métodos foram testadas e validadas em diferentes contextos, fornecendo resultados confiáveis para uma variedade de problemas computacionais.
 
 
 
