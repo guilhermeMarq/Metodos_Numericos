@@ -1,3 +1,7 @@
+![image](https://github.com/guilhermeMarq/Metodos_Numericos/assets/72332375/3958095b-f45a-4636-9787-9a3b12469176)
+
+
+
 # Métodos numéricos para a resolução de problemas computacionais.
 
 Este é um conjunto abrangente de métodos numéricos implementados em Python, oferecendo uma ampla gama de funcionalidades para análise computacional de sistemas lineares e não lineares, cálculo de autovalores e autovetores, mínimos quadrados, interpolação polinomial, cálculo de derivadas e integrais a partir de dados discretos.
