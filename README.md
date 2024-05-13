@@ -6,7 +6,7 @@
 
 # Métodos numéricos para a resolução de problemas computacionais.
 
-Este é um conjunto abrangente de métodos numéricos implementados em Python, oferecendo uma ampla gama de funcionalidades para análise computacional de sistemas lineares e não lineares, cálculo de autovalores e autovetores, mínimos quadrados, interpolação polinomial, cálculo de derivadas e integrais a partir de dados discretos.
+Este é um conjunto de métodos numéricos implementados em Python, oferecendo uma ampla gama de funcionalidades para análise computacional de sistemas lineares e não lineares, cálculo de autovalores e autovetores, mínimos quadrados, interpolação polinomial, cálculo de derivadas e integrais a partir de dados discretos.
 
 
 
